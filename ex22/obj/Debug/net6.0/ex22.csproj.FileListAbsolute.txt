@@ -1,0 +1,15 @@
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\bin\Debug\net6.0\ex22.exe
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\bin\Debug\net6.0\ex22.deps.json
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\bin\Debug\net6.0\ex22.runtimeconfig.json
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\bin\Debug\net6.0\ex22.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\bin\Debug\net6.0\ex22.pdb
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ex22.csproj.AssemblyReference.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ex22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ex22.AssemblyInfoInputs.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ex22.AssemblyInfo.cs
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ex22.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ex22.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\refint\ex22.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ex22.pdb
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ex22.genruntimeconfig.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem3\ex22\obj\Debug\net6.0\ref\ex22.dll
